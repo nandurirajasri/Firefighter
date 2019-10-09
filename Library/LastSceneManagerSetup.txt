@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/_Scenes/8. Traps_Working.unity
+  isLoaded: 1
+  isActive: 1
